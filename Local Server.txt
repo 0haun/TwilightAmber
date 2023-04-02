@@ -1,0 +1,1 @@
+squarespace-server https://platinum-rhino-lszj.squarespace.com/template.git --auth
